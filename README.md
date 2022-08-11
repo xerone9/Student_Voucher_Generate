@@ -1,7 +1,7 @@
 # Student_Voucher_Generate
  JPG Voucher Fillup By GUI FORM
 
-There is a blank Fee Voucher in by the name of "Vouchers.jpg"
+There is a blank Fee Voucher in the files by the name of "Vouchers.jpg"
 
 When you run the app it asks for relevevant fields and once you fill them it fills that Vouchers.jpg file accordingly and convert it into PDF file. Make sure the default PDF viewer is Google Chrome. if not then first close the old PDF file then click on generate voucher eitherwise it will not work
 
